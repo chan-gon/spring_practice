@@ -1,6 +1,5 @@
 package hello.hellospring.service;
 
-import hello.hellospring.MemoryMemberRepository;
 import hello.hellospring.domain.Member;
 import hello.hellospring.repository.MemberRepository;
 
